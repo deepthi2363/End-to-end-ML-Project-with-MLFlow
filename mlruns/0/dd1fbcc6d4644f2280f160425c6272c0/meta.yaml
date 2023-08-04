@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/dd1fbcc6d4644f2280f160425c6272c0/artifacts
+end_time: 1691155466204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd1fbcc6d4644f2280f160425c6272c0
+run_name: serious-duck-319
+run_uuid: dd1fbcc6d4644f2280f160425c6272c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691155463058
+status: 3
+tags: []
+user_id: deept

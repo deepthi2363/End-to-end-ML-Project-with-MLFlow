@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/bed149ab7d314b5b9d02fff95c3859cf/artifacts
+end_time: 1691157565902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bed149ab7d314b5b9d02fff95c3859cf
+run_name: angry-wolf-679
+run_uuid: bed149ab7d314b5b9d02fff95c3859cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691157562793
+status: 3
+tags: []
+user_id: deept

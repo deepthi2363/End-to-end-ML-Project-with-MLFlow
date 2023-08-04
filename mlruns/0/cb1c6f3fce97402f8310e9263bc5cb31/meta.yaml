@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/cb1c6f3fce97402f8310e9263bc5cb31/artifacts
+end_time: 1691155247986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1c6f3fce97402f8310e9263bc5cb31
+run_name: fortunate-squid-858
+run_uuid: cb1c6f3fce97402f8310e9263bc5cb31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691155244455
+status: 3
+tags: []
+user_id: deept

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/4f0064296d9d4805bd428031822272b2/artifacts
+end_time: 1691155438552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0064296d9d4805bd428031822272b2
+run_name: bittersweet-elk-633
+run_uuid: 4f0064296d9d4805bd428031822272b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691155435329
+status: 3
+tags: []
+user_id: deept

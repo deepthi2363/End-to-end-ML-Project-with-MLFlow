@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/64fe2ee2a6114d0da6eef11ed1952e17/artifacts
+end_time: 1691157923757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64fe2ee2a6114d0da6eef11ed1952e17
+run_name: glamorous-panda-425
+run_uuid: 64fe2ee2a6114d0da6eef11ed1952e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691157918502
+status: 3
+tags: []
+user_id: deept

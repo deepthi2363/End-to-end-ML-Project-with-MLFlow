@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/9ea0115fe2354d0e975da6e29912b178/artifacts
+end_time: 1691157814719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ea0115fe2354d0e975da6e29912b178
+run_name: resilient-rat-465
+run_uuid: 9ea0115fe2354d0e975da6e29912b178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691157809334
+status: 3
+tags: []
+user_id: deept

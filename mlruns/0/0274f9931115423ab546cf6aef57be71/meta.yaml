@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/0274f9931115423ab546cf6aef57be71/artifacts
+end_time: 1691155146333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0274f9931115423ab546cf6aef57be71
+run_name: adventurous-mare-643
+run_uuid: 0274f9931115423ab546cf6aef57be71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691155143187
+status: 3
+tags: []
+user_id: deept

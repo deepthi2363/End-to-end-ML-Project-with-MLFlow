@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/366a00c9844a4a58813c1108fa0a7b06/artifacts
+end_time: 1691154691221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 366a00c9844a4a58813c1108fa0a7b06
+run_name: sneaky-shark-466
+run_uuid: 366a00c9844a4a58813c1108fa0a7b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691154688009
+status: 3
+tags: []
+user_id: deept
