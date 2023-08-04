@@ -4,7 +4,7 @@ import zipfile
 from MLopsProject import logger
 from MLopsProject.utils.common import get_size
 from pathlib import Path
-from MLopsProject.entity.config_entity import (DataIngestionConfig)
+from MLopsProject.entity.config_entity import DataIngestionConfig
 
 
 
