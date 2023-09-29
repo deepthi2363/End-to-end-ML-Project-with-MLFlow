@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/7f218d790ed4429999731ece5393a515/artifacts
+end_time: 1695976993886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f218d790ed4429999731ece5393a515
+run_name: bright-deer-59
+run_uuid: 7f218d790ed4429999731ece5393a515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695976986222
+status: 3
+tags: []
+user_id: deept

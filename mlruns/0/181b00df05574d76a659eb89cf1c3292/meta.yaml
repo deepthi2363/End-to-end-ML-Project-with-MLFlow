@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/181b00df05574d76a659eb89cf1c3292/artifacts
+end_time: 1695976691812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181b00df05574d76a659eb89cf1c3292
+run_name: zealous-sow-503
+run_uuid: 181b00df05574d76a659eb89cf1c3292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695976682047
+status: 3
+tags: []
+user_id: deept

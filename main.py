@@ -1,11 +1,9 @@
 from src.MLopsProject import logger
-from MLopsProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-from MLopsProject.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
-from MLopsProject.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
-from MLopsProject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
-from MLopsProject.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
-
-
+from src.MLopsProject.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from src.MLopsProject.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
+from src.MLopsProject.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
+from src.MLopsProject.pipeline.stage_04_model_trainer import ModelTrainerTrainingPipeline
+from src.MLopsProject.pipeline.stage_05_model_evaluation import ModelEvaluationTrainingPipeline
 
 STAGE_NAME = "Data Ingestion stage"
 try:

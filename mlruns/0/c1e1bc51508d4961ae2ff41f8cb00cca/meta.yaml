@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/End-to-end-ML-Project-with-MLFlow/mlruns/0/c1e1bc51508d4961ae2ff41f8cb00cca/artifacts
+end_time: 1695977415609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1e1bc51508d4961ae2ff41f8cb00cca
+run_name: adorable-worm-705
+run_uuid: c1e1bc51508d4961ae2ff41f8cb00cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695977411406
+status: 3
+tags: []
+user_id: deept
